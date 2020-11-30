@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "62E62048-CF88-4452-A3A6-8BCB2A0C8EDA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "045F8DB9-E2A8-4847-9C78-055EA8F7B5B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weathergeo/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "045F8DB9-E2A8-4847-9C78-055EA8F7B5B4 - 77ee151a8ca9a787"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weathergeo.AppDelegate.__deallocating_deinit"
+                  moduleName = "weathergeo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianakryu/Desktop/weathergeo/weathergeo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "045F8DB9-E2A8-4847-9C78-055EA8F7B5B4 - 11b23001f4264c00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weathergeo.AppDelegate.__allocating_init() -&gt; weathergeo.AppDelegate"
+                  moduleName = "weathergeo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianakryu/Desktop/weathergeo/weathergeo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "045F8DB9-E2A8-4847-9C78-055EA8F7B5B4 - 7b1a733f2923ce27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weathergeo.AppDelegate.init() -&gt; weathergeo.AppDelegate"
+                  moduleName = "weathergeo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianakryu/Desktop/weathergeo/weathergeo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "045F8DB9-E2A8-4847-9C78-055EA8F7B5B4 - e288f9163a291621"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "weathergeo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianakryu/Desktop/weathergeo/weathergeo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
